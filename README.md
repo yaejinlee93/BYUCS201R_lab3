@@ -14,7 +14,7 @@ xxx.xxx/lab3/index.html
 
 You should have utilized: 
  
-[this link](https://classroom.github.com/assignment-invitations/edffedb649402e571af82e1f692100c4) 
+[this link](https://classroom.github.com/assignment-invitations/6980021f2219f67c72d417778b05fd22)
 
 to get started. We will be looking through the code, so we'll know if you simply copy/paste all of the tutorial.
 
