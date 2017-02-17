@@ -6,6 +6,12 @@ function mainCtrl ($scope)
 {
   $scope.users = [];
 
+  $scope.users = [{
+    name: 'Yaejin Lee',
+    avatarUrl: 'https://pbs.twimg.com/profile_images/567924374137618432/Lm1lSVLE.png',
+    email: 'yaejinlee93@gmail.com'
+  }];
+
   $scope.addNew = function (user)
   {
     $scope.users.push({
